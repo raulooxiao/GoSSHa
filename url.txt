@@ -1,0 +1,2 @@
+this is introdution of sshHa written by go:
+http://kukuruku.co/hub/golang/ssh-commands-execution-on-hundreds-of-servers-via-go
